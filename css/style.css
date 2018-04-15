@@ -1,0 +1,115 @@
+body{
+	background: #cce5ff;
+	font-size: 17px;
+}
+
+
+/*1ere partie*/
+.popover-title{
+	margin-left: 17px;
+	margin-bottom: 2px;
+	 padding: 8px 14px;
+     font-size: 25px;
+  background-color: #f7f7f7;										
+}
+
+
+/*2eme partie*/
+
+
+h5{
+	margin-left: 17px;
+	font-size: 17px;
+}
+
+h2{
+	border: 1px;
+	color: blue;
+	margin-left: 16px;
+	text-decoration: underline;
+}
+
+
+
+h3{
+    font-size: 29px;
+    color: #DEB887;
+}
+
+
+.b1 h5{
+	font-size: 22px;
+}
+
+h4{
+	margin-top: 70%;
+	font-size: 18px;
+	color: #DEB887;	
+} 
+
+h6{font-size: 16px;
+	margin-left: 15%;
+}
+
+
+/*.identité .b1{
+	position: absolute;
+	bottom: 60px;
+	right: 60px;
+	color: #00FFFF;
+}
+
+
+/*3eme partie*/
+
+.b3{
+    background-color: white;
+	margin-left: 17px;
+	margin-top: 5px;
+	border: 1px solid blue;
+	height: 270px;
+	width: 450px;
+}
+
+.b4{
+    margin-left: 81px;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+   	border: 1px solid green;
+	margin-right: 17px;
+	background-color: white;
+ 
+}
+
+
+/*4eme partie
+.ecole{
+	margin-left: 27px;
+}
+
+.ecole h5{
+	font-size: 24px;
+}
+
+.ecole .b2{
+	color: #DEB887;
+	margin-left: 60px;
+	font-size: 24px;
+	
+}
+
+.ecole h2 , .plus h2{
+	color: blue;
+	font-size: 30px;
+	margin-left: 320px;
+	text-decoration: underline;
+}
+
+
+
+/*5eme partie*/
+.btn{
+	background-color: red;
+    margin-left: 40px;
+}
